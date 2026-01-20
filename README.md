@@ -58,7 +58,7 @@ toolbox>
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/toolbox.git
+git clone https://github.com/IstiukAhmedMitul/toolbox.git
 cd toolbox
 
 # Run automated installer
@@ -409,3 +409,4 @@ toolbox hollywood                # Hollywood hacker mode!
 **Hack Responsibly. Always Get Permission. Stay Legal.** 🛡️
 
 </div>
+
