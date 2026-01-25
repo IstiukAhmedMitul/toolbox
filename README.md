@@ -269,9 +269,6 @@ Endpoints:
 
 - [Installation Guide](INSTALLATION.md)
 - [Features Guide](FEATURES_GUIDE.md)
-- [Quick Reference](QUICK_REFERENCE.md)
-- [GitHub Setup](GITHUB_SETUP.md)
-- [What's New in v2.0](WHATS_NEW.md)
 
 ---
 
@@ -342,18 +339,6 @@ If you find Toolbox useful, please give it a star! It helps others discover the 
 - [ ] Team collaboration features
 
 ---
-
-## 📸 Screenshots
-
-### Interactive Mode
-![Interactive Mode](screenshots/interactive.png)
-
-### Tool Selection
-![Tool Selection](screenshots/tool-selection.png)
-
-### Hollywood Mode
-![Hollywood Mode](screenshots/hollywood.png)
-
 ---
 
 ## 🔥 Why Toolbox is Different
@@ -402,11 +387,12 @@ toolbox hollywood                # Hollywood hacker mode!
 
 ### Made with ❤️ for the Cybersecurity Community
 
-**[⭐ Star](https://github.com/YOUR-USERNAME/toolbox)** • **[🐛 Report Bug](https://github.com/YOUR-USERNAME/toolbox/issues)** • **[✨ Request Feature](https://github.com/YOUR-USERNAME/toolbox/issues)**
+**[⭐ Star](https://github.com/IstiukAhmedMitul/toolbox)** • **[🐛 Report Bug](https://github.com/IstiukAhmedMitul/toolbox/issues)** • **[✨ Request Feature](https://github.com/IstiukAhmedMitul/toolbox/issues)**
 
 ---
 
 **Hack Responsibly. Always Get Permission. Stay Legal.** 🛡️
 
 </div>
+
 
