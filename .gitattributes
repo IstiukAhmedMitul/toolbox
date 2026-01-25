@@ -1,0 +1,33 @@
+# Force LF line endings for all text files in repository
+# This ensures Linux/Mac users get proper line endings
+
+# Default: LF line endings for all text files
+* text=auto eol=lf
+
+# Python files (CRITICAL - shebang must have LF)
+*.py text eol=lf
+*.pyw text eol=lf
+
+# Shell scripts (CRITICAL - shebang must have LF)
+*.sh text eol=lf
+
+# Markdown documentation
+*.md text eol=lf
+
+# Config files
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.toml text eol=lf
+*.ini text eol=lf
+*.cfg text eol=lf
+
+# Explicitly mark binaries (no conversion)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.gz binary
