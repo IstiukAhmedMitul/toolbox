@@ -17,14 +17,14 @@ Toolbox is a **professional command-line assistant** designed for penetration te
 ### ✨ Why Toolbox?
 
 - 🧠 **Forget Memorization** - No more googling command syntax
-- 🤖 **AI-Powered** - Natural language to commands (NEW!)
+- 🤖 **AI-Powered** - Natural language to commands (ollama)
 - 🚀 **100+ Tools Ready** - Nmap, Gobuster, SQLMap, Metasploit, and more
 - 🎨 **Interactive & Beautiful** - Metasploit-style banner and clean interface
 - 💪 **Professional Features** - History, favorites, workflows, templates
-- 🎨 **Custom Commands** - Add your own frequently-used commands (NEW!)
+- 🎨 **Custom Commands** - Add your own frequently-used commands
 - 🎬 **Hollywood Mode** - Look like a movie hacker (just for fun!)
 - 🔧 **Auto-Install** - Prompts to install missing tools automatically
-- 📝 **Enhanced Wordlists** - Dynamic SecLists detection with 20+ lists (NEW!)
+- 📝 **Enhanced Wordlists** - Dynamic SecLists detection with 20+ lists
 
 ---
 
@@ -532,4 +532,5 @@ toolbox hollywood                # Hollywood hacker mode!
 **Hack Responsibly. Always Get Permission. Stay Legal.** 🛡️
 
 </div>
+
 
