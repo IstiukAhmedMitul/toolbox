@@ -75,10 +75,11 @@ $ toolbox
 ╚════════════════════════════════════════════════════════════════════════════╝
 
 [*] Over 100+ Security Tools at Your Fingertips
-[*] AI-Powered Natural Language Commands (NEW!)
+[*] 🤖 AI-Powered Natural Language Commands (NEW!)
 [*] Command History | Favorites | Workflows | Templates
-[*] Custom Commands | Enhanced Wordlists | Multi-Target Support
+[*] Custom Commands | Multi-Target | Enhanced Wordlists
 [*] Hollywood Hacker Mode Included (Just For Fun!)
+[*] Type 'help' for commands | 'ai-help' for AI | 'q' to quit
 
 toolbox> 
 ```
@@ -531,3 +532,4 @@ toolbox hollywood                # Hollywood hacker mode!
 **Hack Responsibly. Always Get Permission. Stay Legal.** 🛡️
 
 </div>
+
